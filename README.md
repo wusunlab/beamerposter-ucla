@@ -1,4 +1,4 @@
-# An unofficial beamer poster theme for UCLA
+# An unofficial LaTeX-beamer poster theme for UCLA
 
 Wu Sun
 
@@ -15,13 +15,13 @@ You can customize the footer text in `beamerthemeucla.sty`.
 
 ## Requirement
 
-This template requires the `beamerposter` package to be installed in your LaTeX
+This template requires the `beamerposter` package to be installed in your TeX
 distribution.
 
 ## License
 
-The LaTeX source files in this repository is made available under the MIT
-license. This is NOT an official template.
+The LaTeX source files in this repository are made freely available under the
+MIT license. This is NOT an official template.
 
 The UCLA logo (`logo-ucla-white.pdf`) is a trademark of UCLA. For policy of
 use, please visit <http://www.adminpolicies.ucla.edu/APP/Number/110.0>.
